@@ -1,0 +1,19 @@
+# Variables de entorno (NUNCA subir al repositorio)
+.env
+
+# Entorno virtual de Python
+venv/
+.venv/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Editores y sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Registros
+*.log

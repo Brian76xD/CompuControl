@@ -1,0 +1,25 @@
+*** REQUERIMIENTOS FUNCIONALES ***
+
+1.  El sistema deberá permitir iniciar sesión a un **usuario administrador**.
+2.  El sistema deberá permitir al administrador **visualizar los equipos conectados** dentro del área específica.
+3.  El sistema deberá permitir **controlar múltiples equipos simultáneamente**.
+4.  El sistema deberá tener capacidad para **controlar al menos 50 equipos conectados**.
+5.  El sistema deberá mostrar **la cantidad de equipos conectados** en tiempo real.
+6.  El sistema deberá mostrar el **estado de cada equipo**, por ejemplo: conectado, desconectado o bloqueado.
+7.  El sistema deberá permitir al administrador **bloquear y desbloquear los equipos** conectados.
+8.  El sistema deberá permitir al administrador **seleccionar un equipo específico** para realizar acciones de control.
+9.  El sistema deberá actualizar la información de los equipos cuando estos **se conecten o desconecten**.
+10. El sistema deberá permitir al administrador **cerrar la sesión** de forma segura.
+
+----------------------------------------------------------------------------------------------------------------------
+
+*** REQUERIMIENTOS NO FUNCIONALES ***
+
+1.  El sistema deberá contar con una **interfaz gráfica clara e intuitiva** para facilitar su uso por parte del administrador.
+2.  El sistema deberá responder a las acciones del administrador en un **tiempo máximo establecido**, evitando retrasos perceptibles.
+3.  El sistema deberá mantener un funcionamiento estable al controlar **al menos 50 equipos simultáneamente**.
+4.  El sistema deberá proteger el acceso mediante **autenticación del usuario administrador**.
+5.  La información de los equipos deberá **actualizarse automáticamente** sin que el administrador tenga que reiniciar la aplicación.
+6.  El sistema deberá ser **escalable**, permitiendo aumentar posteriormente la cantidad de equipos controlados.
+7.  El sistema deberá presentar la información de manera **organizada y comprensible**, evitando elementos innecesarios en la interfaz.
+8.  El sistema deberá mantener una **comunicación segura** entre el equipo administrador y los equipos controlados.
