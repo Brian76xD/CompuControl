@@ -23,8 +23,8 @@ Aplicación en red local que permite a un docente, desde su computadora (**Maste
 1. Clonar el repositorio:
 
    ```
-   git clone https://github.com/USUARIO/NOMBRE-DEL-REPOSITORIO.git
-   cd NOMBRE-DEL-REPOSITORIO
+   git clone https://github.com/Brian76xD/CompuControl
+   cd CompuControl
    ```
 
 2. Crear y activar un entorno virtual:
